@@ -5,7 +5,7 @@ author:
   name: "坏脾气先生L"
   email: "myfoolish@126.com"
   url: "https://myfoolish.github.io/blog1/"
-url:  "https://myfoolish.github.io/" # Actual base url of the website
+url:  "https://myfoolish.github.io" # Actual base url of the website
 baseurl: "blog1/"  # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 permalink: /:year/:month/:day/:title:output_ext
 
